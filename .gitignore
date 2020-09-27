@@ -1,0 +1,18 @@
+# Project exclude paths
+/dongyimai_common/target/
+/dongyimai_content_interface/target/
+/dongyimai_content_service/target/
+/dongyimai_dao/target/
+/dongyimai_manager_web/target/
+/dongyimai_page_interface/target/
+/dongyimai_page_service/target/
+/dongyimai_pojo/target/
+/dongyimai_portal_web/target/
+/dongyimai_search_interface/target/
+/dongyimai_search_service/target/
+/dongyimai_search_web/target/
+/dongyimai_sellergoods_interface/target/
+/dongyimai_sellergoods_service/target/
+/dongyimai_shop_web/target/
+/dongyimai_sms_service/target/
+/dongyimai_solr_util/target/
